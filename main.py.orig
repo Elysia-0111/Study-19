@@ -1,6 +1,0 @@
-import os
-<<<<<<< HEAD
-os.system('python function_21373224.py')
-=======
-os.system('python function_21371009.py')
->>>>>>> c5f1f1f06e174b8912a6731d3635bca75535a4d1
